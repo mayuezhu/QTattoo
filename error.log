@@ -1,0 +1,234 @@
+[Sat Apr 16 2016 01:26:14 GMT-0700 (PDT)] /
+TypeError: mongodb.connect is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:28:37 GMT-0700 (PDT)] /
+TypeError: mongodb.connect is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:28:41 GMT-0700 (PDT)] /
+TypeError: mongodb.connect is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:28:51 GMT-0700 (PDT)] /
+TypeError: mongodb.connect is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:28:51 GMT-0700 (PDT)] /
+TypeError: mongodb.connect is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:31:39 GMT-0700 (PDT)] /
+TypeError: mongodb.connect is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:31:41 GMT-0700 (PDT)] /
+TypeError: mongodb.connect is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:32:51 GMT-0700 (PDT)] /
+TypeError: mongodb.connect is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:32:53 GMT-0700 (PDT)] /
+TypeError: mongodb.connect is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:42:00 GMT-0700 (PDT)] /
+TypeError: mongodb.connect is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:58:21 GMT-0700 (PDT)] /
+TypeError: mongodb.open is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 01:58:24 GMT-0700 (PDT)] /
+TypeError: mongodb.open is not a function
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:11)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:245:17)
+    at SendStream.onStatError (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:356:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:658:28)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/send/index.js:666:23
+[Sat Apr 16 2016 02:01:11 GMT-0700 (PDT)] /
+MongoError: database names cannot contain the character '.'
+    at Function.MongoError.create (/Users/dc10/Desktop/techbow/blog/node_modules/mongodb/node_modules/mongodb-core/lib/error.js:31:11)
+    at validateDatabaseName (/Users/dc10/Desktop/techbow/blog/node_modules/mongodb/lib/db.js:1712:70)
+    at new Db (/Users/dc10/Desktop/techbow/blog/node_modules/mongodb/lib/db.js:137:3)
+    at Db (/Users/dc10/Desktop/techbow/blog/node_modules/mongodb/lib/db.js:84:36)
+    at Function.Post.getTen (/Users/dc10/Desktop/techbow/blog/models/post.js:67:3)
+    at /Users/dc10/Desktop/techbow/blog/routes/index.js:12:10
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:277:22
+    at Function.process_params (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/dc10/Desktop/techbow/blog/node_modules/express/lib/router/index.js:271:10)
+    at SendStream.error (/Users/dc10/Desktop/techbow/blog/node_modules/express/node_modules/serve-static/index.js:120:7)
+    at emitOne (events.js:77:13)
+    at SendStream.emit (events.js:169:7)
